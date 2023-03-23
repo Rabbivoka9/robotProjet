@@ -50,7 +50,6 @@
     margin: 8px;
     cursor: pointer;
     border-radius: 5px 5px;
-
 }
 .card:hover{
  background-color: #ffa126;
@@ -58,7 +57,6 @@
  transition: all 1s ease;
  border: solid 9px  #ffa126;
 }
-
 .tex{
   text-align: center;
   font-size: 11px;
