@@ -1,5 +1,6 @@
 import './App.css';
 import Robos from './composant/Robos';
+import Popup from './composant/Poppup';
 
 function App() {
   return (
